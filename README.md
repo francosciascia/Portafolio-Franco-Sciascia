@@ -1,6 +1,6 @@
 # Portfolio - Franco Sciascia
 
-Portfolio personal desarrollado con HTML, CSS y JavaScript. Diseño moderno y responsive con tema rojo acogedor.
+Portfolio personal desarrollado con HTML, CSS y JavaScript, haciendolo moderno y adaptado a la actualidad.
 
 ## 🚀 Características
 
